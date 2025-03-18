@@ -2,9 +2,7 @@
 
 # README.md                              
 
-https://badge.mediaplus.ma/binary/ybahij
-
-[![ybahij's 42 stats](https://badge.mediaplus.ma/colorfulwaves/ybahij)](https://github.com/oakoudad/badge42)
+https://badge.mediaplus.ma/colorfulwaves/ybahij
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/ybahij" alt="ybahij's 42 stats" /></a>
 
